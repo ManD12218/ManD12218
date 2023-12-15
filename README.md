@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManD12218
+- 👋 Hi, I’m Mandeep Kumar @ManD12218
 - 👀 I’m interested in Machine learning and AI
 - 💞️ I’m looking to collaborate on projects on AI/ML
 - 📫 Drop in a msg at mandy12218@gmail.com to connect
